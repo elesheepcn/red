@@ -1,0 +1,21 @@
+
+.content{padding:0;}
+.van-cell-group{position: relative;}
+.badgeNum{position: absolute;top: .5rem;left:3rem;font-size: .5rem; display: inline-block;background: red;color: #fff;text-align: center;font-style: normal;border-radius: 100px;min-width: 4vw;height: 4vw;line-height: 4vw;padding: 0 1vw;}
+.van-search{background: none;}
+/* .searchwidth .van-nav-bar__title{width: 80vw;max-width: none;} */
+.content .van-tabbar-item--active,
+.content .van-nav-bar .van-icon,
+.content .van-nav-bar__text,
+.content .van-icon-clear,
+.content .van-field__clear{color: #36c86c;}
+.iconCustom img{width: 45px;height: 45px;border-radius: 10%;position: relative;}
+.iconCustom .van-cell__label{overflow: hidden;white-space: nowrap;text-overflow: ellipsis;width: 65vw;}
+.van-cell .van-cell__right-icon {
+  transform: rotate(90deg);
+}
+.topbar .van-index-anchor{line-height: 46px;}
+.van-index-anchor{background-color: #f5f5f5;}
+.iconAddTop{font-size: 1.2rem;}
+.content .inputbg{padding:1vh 3vw;line-height: 3.5vh;width: 100vw;box-sizing: border-box;}
+.sendArea .inputbg input.van-field__control{background-color: #fff;padding:2vw 3vw;border-radius: 6px;vertical-align: middle;}

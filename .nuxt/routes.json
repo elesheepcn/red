@@ -1,0 +1,164 @@
+[
+  {
+    "name": "buy",
+    "path": "/buy",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\buy.vue",
+    "chunkName": "pages/buy"
+  },
+  {
+    "name": "chatDetail",
+    "path": "/chatDetail",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\chatDetail.vue",
+    "chunkName": "pages/chatDetail"
+  },
+  {
+    "name": "chatDetailInfo",
+    "path": "/chatDetailInfo",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\chatDetailInfo.vue",
+    "chunkName": "pages/chatDetailInfo"
+  },
+  {
+    "name": "complain",
+    "path": "/complain",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\complain.vue",
+    "chunkName": "pages/complain"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "createChatGroup",
+    "path": "/createChatGroup",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\createChatGroup.vue",
+    "chunkName": "pages/createChatGroup"
+  },
+  {
+    "name": "getmyCard",
+    "path": "/getmyCard",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\getmyCard.vue",
+    "chunkName": "pages/getmyCard"
+  },
+  {
+    "name": "getSmsCode",
+    "path": "/getSmsCode",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\getSmsCode.vue",
+    "chunkName": "pages/getSmsCode"
+  },
+  {
+    "name": "group_team",
+    "path": "/group_team",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\group_team.vue",
+    "chunkName": "pages/group_team"
+  },
+  {
+    "name": "groupList",
+    "path": "/groupList",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\groupList.vue",
+    "chunkName": "pages/groupList"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "menbers",
+    "path": "/menbers",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\menbers.vue",
+    "chunkName": "pages/menbers"
+  },
+  {
+    "name": "mine",
+    "path": "/mine",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\mine.vue",
+    "chunkName": "pages/mine"
+  },
+  {
+    "name": "modifyPassword",
+    "path": "/modifyPassword",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\modifyPassword.vue",
+    "chunkName": "pages/modifyPassword"
+  },
+  {
+    "name": "myAcount",
+    "path": "/myAcount",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\myAcount.vue",
+    "chunkName": "pages/myAcount"
+  },
+  {
+    "name": "myCard",
+    "path": "/myCard",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\myCard.vue",
+    "chunkName": "pages/myCard"
+  },
+  {
+    "name": "myGroupChat",
+    "path": "/myGroupChat",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\myGroupChat.vue",
+    "chunkName": "pages/myGroupChat"
+  },
+  {
+    "name": "package",
+    "path": "/package",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\package.vue",
+    "chunkName": "pages/package"
+  },
+  {
+    "name": "recommend",
+    "path": "/recommend",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\recommend.vue",
+    "chunkName": "pages/recommend"
+  },
+  {
+    "name": "sendPackage",
+    "path": "/sendPackage",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\sendPackage.vue",
+    "chunkName": "pages/sendPackage"
+  },
+  {
+    "name": "service",
+    "path": "/service",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\service.vue",
+    "chunkName": "pages/service"
+  },
+  {
+    "name": "serviseMsg",
+    "path": "/serviseMsg",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\serviseMsg.vue",
+    "chunkName": "pages/serviseMsg"
+  },
+  {
+    "name": "setPassword",
+    "path": "/setPassword",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\setPassword.vue",
+    "chunkName": "pages/setPassword"
+  },
+  {
+    "name": "setting",
+    "path": "/setting",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\setting.vue",
+    "chunkName": "pages/setting"
+  },
+  {
+    "name": "settingPassword",
+    "path": "/settingPassword",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\settingPassword.vue",
+    "chunkName": "pages/settingPassword"
+  },
+  {
+    "name": "webView",
+    "path": "/webView",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\webView.vue",
+    "chunkName": "pages/webView"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\mywork\\\\red\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
